@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.coordinatorlayout:coordinatorlayout:1.0.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://C:/flutter/gradle/caches/transforms-2/files-2.1/af526650ead6d09f720bd0dc39f9845e/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://C:/flutter/gradle/caches/transforms-2/files-2.1/af526650ead6d09f720bd0dc39f9845e/jars/classes.jar!/" />
+      <root url="file://C:/flutter/gradle/caches/transforms-2/files-2.1/af526650ead6d09f720bd0dc39f9845e/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://C:/flutter/gradle/caches/modules-2/files-2.1/androidx.coordinatorlayout/coordinatorlayout/1.0.0/4325b3c4422ad58201ed8dc15ae56bda9accedf2/coordinatorlayout-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

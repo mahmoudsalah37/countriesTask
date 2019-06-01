@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.material:material:1.0.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://C:/flutter/gradle/caches/transforms-2/files-2.1/8f2fad63cdb63d551d926d2099f35bc8/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://C:/flutter/gradle/caches/transforms-2/files-2.1/8f2fad63cdb63d551d926d2099f35bc8/jars/classes.jar!/" />
+      <root url="file://C:/flutter/gradle/caches/transforms-2/files-2.1/8f2fad63cdb63d551d926d2099f35bc8/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
